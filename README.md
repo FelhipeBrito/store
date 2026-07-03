@@ -148,13 +148,13 @@ Este projeto procura seguir alguns princípios utilizados em aplicações de pro
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/FelhipeBrito/store
 ```
 
 Entre na pasta:
 
 ```bash
-cd nome-do-projeto
+cd store
 ```
 
 Instale as dependências:
